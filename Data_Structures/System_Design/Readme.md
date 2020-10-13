@@ -1,3 +1,9 @@
+## Study links
+
+- [System Design Interview Question: DESIGN A PARKING LOT - asked at Google, Facebook](https://www.youtube.com/watch?v=DSGsa0pu8-k)
+
+
+
 ## System Design
 
 - http://www.hiredintech.com/system-design/
