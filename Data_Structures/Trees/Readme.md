@@ -2,6 +2,8 @@
 
 - [Leaf It Up To Binary Trees](https://medium.com/basecs/leaf-it-up-to-binary-trees-11001aaf746d)
 
+- [Data Structures: Trees](https://www.youtube.com/watch?v=oSWTXtMglKE&list=PLI1t_8YX-Apv-UiRlnZwqqrRT8D1RhriX&index=7)
+
 ## Notes
 
 A tree is an undirected and connected acyclic graph.

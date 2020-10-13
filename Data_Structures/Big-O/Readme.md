@@ -1,6 +1,8 @@
 # Big O Notation
 *It can be used to measure the time and space complexity of any program or algorithm. It's likely that potential interviewers will be more focused on time complexity.*
 
+[Big O Notation](https://www.youtube.com/watch?v=v4cd1O4zkGw)
+
 ## O(1)
 -   "Constant Time"
 -   The time complexity does not increase regardless of the size of the input.

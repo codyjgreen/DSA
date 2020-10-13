@@ -1,4 +1,10 @@
+## Study links
+
+- [Data Structures: Linked Lists](https://www.youtube.com/watch?v=njTh_OwMljA)
+
+
 ## Notes
+
 
 Like arrays, linked lists are used to represent sequential data. The benefit of linked lists is that insertion and deletion of a node in the list (given its location) is O(1) whereas in arrays the following elements will have to be shifted.
 
