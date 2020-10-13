@@ -29,7 +29,7 @@ Exploring approaches to Whiteboarding?
 - How to prepare?
 - Tips and resources
 
-[Whiteboarding Workshop Recording](https://www.youtube.com/watch?v=6UWAZ0YAHTw&list=PLc6AmvC5Zybz038jznOLFk9XHFcIeo1VK&index=10)
+[Whiteboarding Workshop Recording](https://youtu.be/2icTfVR_fRQ)
 
 
 [Slide deck](https://docs.google.com/presentation/d/1dCoQSNo-ZFKsQm6YBpElLvTJkeUhYqecRRUnLK3UX_s/edit#slide=id.g53723775f3_1_275)
