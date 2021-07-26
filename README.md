@@ -6,13 +6,6 @@ These resources are widely available online and have been collected here to make
 
 There are over 100 questions in this [List](https://leetcode.com/list/5r99deem) for you to practice 
 
-If you make it through all of the questions do the following to get added to the completionists!
-- make a fork of this repo
-- take a screenshot of the todo percentage on Leetcode for this list of questions showing that you have solved all of the questions.
-- on your fork add your name and github handle to the completionists doc
-- push your local fork up to your remote fork and submit a pull request to the main repo
-- on your pull request add the photo of your 100% finished list to the comments of the Pull Request (PR's without photo will not be added to the doc)
-- Submit the PR
 
 ## Whiteboarding Workshop
 In this Whiteboarding Workshop you will learn the best practices for preparing for a technical interview with tips for both remote and in person interviews.
